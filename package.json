@@ -1,0 +1,15 @@
+{
+  "name": "kaigishitsubot",
+  "version": "1.0.0",
+  "description": "kaigishitsu BOT",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.1.1",
+    "node-libcurl": "^0.9.0"
+  }
+}

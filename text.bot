@@ -1,0 +1,6 @@
+curl -X POST https://slack.com/api/chat.postMessage \
+    -d "token=xoxb-35471024976-tTohKIYsK5Zn4Ab4bFfgrKRG" \
+    -d "channel=@karasawa" \
+    -d "text=テストメッセージ" \
+    -d "as_user=true" \
+    -d "link_names=1"
